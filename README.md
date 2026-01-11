@@ -1,1 +1,1 @@
-# Grad-Seminar
+# grad-seminar
